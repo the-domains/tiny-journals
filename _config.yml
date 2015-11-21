@@ -1,0 +1,28 @@
+name: tiny-journals
+favicon: null
+layout_spectrum: 0.46770357969217
+typography_spectrum: 0.946687889052555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10020833811722696
+  lightness: 0.18495404021814466
+  saturation: 0.7456809536088258
+  rhythmicContrast: 0.045905600767582655
+purpose: []
